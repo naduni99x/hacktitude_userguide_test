@@ -95,8 +95,6 @@ You will have to note that the project code has no `.gitignore` file. Please add
 ```
 node_modules
 config/node_modules
-
-# Keep environment variables out of version control
 .env
 .idea
 package-lock.json
