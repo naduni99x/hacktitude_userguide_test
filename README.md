@@ -1,6 +1,6 @@
 # Welcome to `Hacktitude Malaysia 2023`
 
->>DISCLAIMER: Please note that this project is created only for the purpose of Hacktitude.io and does NOT represent best practices of software development. The project contains purposefully placed errors, bad design practices, bad code quality and security malpractices.
+>>DISCLAIMER: Please note that this project is created only for the purpose of Hacktitude.io and does NOT represent best practices of software development. The project contains purposefully placed errors, bad design practices, bad code quality, and security malpractices.
 
 1. [Setting up your environment](#setting-up-your-environment)
 1. [Solving the challenges](#solving-the-challenges)
@@ -9,7 +9,7 @@
 
 ## Setting up your environment
 
-This section helps you to understand the prerequisite required and how to work with the codebase. Please read through carefully and follow instructions to understand the codebase of this project.
+This section helps you to understand the prerequisite required and how to work with the codebase. Please read through carefully and follow the instructions to understand the codebase of this project.
 
 ### Prerequisites (Mandatory)
 
@@ -38,7 +38,7 @@ Use Git to clone the project to the local development environment using the cred
 
 * git clone `<repository-url>`
 
-> _Note for **Windows users** : Use `cmd` as the terminal to run commands._
+> _Note for **Windows users**: Use `cmd` as the terminal to run commands._
 
 ### Installing dependencies
 
@@ -46,13 +46,13 @@ Once you clone the project from your team's Git repository, run the following co
 
 * `npm install`
 
-In `jest-config.js`, replace the `<INSERT YOUR FILE NAME HERE>` with the name of the cloned repository folder name.
+In `jest-config.js`, replace the `<INSERT YOUR FILE NAME HERE>` with the cloned repository folder name.
 
 ### Validate if the environment is correctly setup
 
 You can run the Sanity test file in the `tests` directory with the below command.
 
-For windows users,
+For Windows users,
 * `npm test _sanity.test.js`
 
 For other users(MacOS, Linux, etc.),
@@ -60,7 +60,7 @@ For other users(MacOS, Linux, etc.),
 
 <br> 
 
-> _Note : If you get an error while running this command, make sure you have set all the prerequisites correctly on your machine._
+> _Note: If you get an error while running this command, make sure you have set all the prerequisites correctly on your machine._
 
 <!-- If you have the environment correctly set up, all the tests should pass in the sanity test. If the sanity test fails with an internal , that is an indication of your environment setup issue, you must first attend to rectifying your development environment. -->
 
@@ -187,14 +187,15 @@ Have fun!
 
 |       |  |  |
 | Hobby Scout | Colab Hub | Project Mate |
-| [Challenge 0](./challenge-00.md)| [Challenge 5](./challenge-05.md)| [Challenge 9](./challenge-09.md) |
-| [Challenge 1](./challenge-01.md)| [Challenge 6](./challenge-06.md)| [Challenge 10](./challenge-10.md) |
-| [Challenge 2](./challenge-02.md)| [Challenge 7](./challenge-07.md)| [Challenge 11](./challenge-11.md) |
-| [Challenge 3](./challenge-03.md)| [Challenge 8](./challenge-08.md)| [Challenge 12](./challenge-12.md) |
-| [Challenge 4](./challenge-04.md)| | [Challenge 13](./challenge-13.md) |
-| | | [Challenge 14](./challenge-14.md) |
-| | | [Challenge 15](./challenge-15.md) |
-| | | [Challenge 16](./challenge-16.md) |
+| <a href="./challenge-00.md" target="_blank">Challenge 0</a> | <a href="./challenge-05.md" target="_blank">Challenge 5</a> | <a href="./challenge-09.md" target="_blank">Challenge 9</a> |
+| <a href="./challenge-01.md" target="_blank">Challenge 1</a> | <a href="./challenge-06.md" target="_blank">Challenge 6</a> | <a href="./challenge-10.md" target="_blank">Challenge 10</a> |
+| <a href="./challenge-02.md" target="_blank">Challenge 2</a> | <a href="./challenge-07.md" target="_blank">Challenge 7</a> | <a href="./challenge-11.md" target="_blank">Challenge 11</a> |
+| <a href="./challenge-03.md" target="_blank">Challenge 3</a> | <a href="./challenge-08.md" target="_blank">Challenge 8</a> | <a href="./challenge-12.md" target="_blank">Challenge 12</a> |
+| <a href="./challenge-04.md" target="_blank">Challenge 4</a> |                                                             | <a href="./challenge-13.md" target="_blank">Challenge 13</a> |
+|                                                             |                                                             | <a href="./challenge-14.md" target="_blank">Challenge 14</a> |
+|                                                             |                                                             | <a href="./challenge-15.md" target="_blank">Challenge 15</a> |
+|                                                             |                                                             | <a href="./challenge-16.md" target="_blank">Challenge 16</a> |
+
 
 ## Getting support
 
