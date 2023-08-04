@@ -185,7 +185,6 @@ Have fun!
 
 <!-- Have to change the filepath on the hackathon day -->
 
-|       |  |  |
 | Hobby Scout | Colab Hub | Project Mate |
 | <a href="./challenge-00.md" target="_blank">Challenge 0</a> | <a href="./challenge-05.md" target="_blank">Challenge 5</a> | <a href="./challenge-09.md" target="_blank">Challenge 9</a> |
 | <a href="./challenge-01.md" target="_blank">Challenge 1</a> | <a href="./challenge-06.md" target="_blank">Challenge 6</a> | <a href="./challenge-10.md" target="_blank">Challenge 10</a> |
