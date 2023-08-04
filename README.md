@@ -20,13 +20,15 @@ Installations of stable versions of `Git`, `Node.js` and `npm` are required on y
 > &ensp; &ensp;  For Windows -: <a href="https://github.com/coreybutler/nvm-windows/releases/download/1.1.11/nvm-setup.exe" target="_blank">Download the .exe file</a>
 > <br> 
 > &ensp; &ensp;  Mac and Linux -: <a href="https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating" target="_blank">Refer this</a>
-><br>
+>
 
-&ensp; &ensp; **NodeJS version : 14.15.0** : <a href="https://nodejs.org/ja/blog/release/v14.15.0" target="_blank">https://nodejs.org/ja/blog/release/v14.15.0</a>
+<br>
 
-&ensp; &ensp; **Git** : <a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a>
+* &ensp; &ensp; **NodeJS version : 14.15.0** : <a href="https://nodejs.org/ja/blog/release/v14.15.0" target="_blank">https://nodejs.org/ja/blog/release/v14.15.0</a>
 
-&ensp; &ensp; **Live Server Extension for VScode** : <a href="https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/" target="_blank">https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/</a>
+* &ensp; &ensp; **Git** : <a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a>
+
+* &ensp; &ensp; **Live Server Extension for VScode** : <a href="https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/" target="_blank">https://www.geeksforgeeks.org/how-to-enable-live-server-on-visual-studio-code/</a>
 <br>
 
 
@@ -36,7 +38,7 @@ Git repository URL and credentials will be available at the start of the contest
 
 Use Git to clone the project to the local development environment using the credentials that will be shared with the team leader.
 
-* git clone `<repository-url>`
+* `git clone <repository-url>`
 
 > _Note for **Windows users**: Use `cmd` as the terminal to run commands._
 
